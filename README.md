@@ -59,7 +59,7 @@ Hexadecimal: 0x3e8
 
 - **Hardware simulado:** Raspberry Pi Pico
 - **Linguagem:** MicroPython
-- **Simulador:** [Wokwi](https://wokwi.com/)
+- **Simulador:** [Wokwi](https://wokwi.com/projects/474519316567678977/)
 - **Saída:** LEDs (verde/amarelo/vermelho) + Monitor Serial
 
 ## Estrutura do repositório
